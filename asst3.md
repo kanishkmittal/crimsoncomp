@@ -20,7 +20,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>crimsoncomp/README.md at 85e685805c86211c66ce8dedb2284579891e9d09 · dansoberanes/crimsoncomp</title>
+  <title>crimsoncomp/asst3.md at 85e685805c86211c66ce8dedb2284579891e9d09 · dansoberanes/crimsoncomp</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -29,10 +29,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/13576332?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="dansoberanes/crimsoncomp" property="og:title" /><meta content="https://github.com/dansoberanes/crimsoncomp" property="og:url" /><meta content="crimsoncomp - Documents for the Crimson Tech Comp" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTU5NzA0MTU0OjQ4MzdlMWVhYjJmYjQ2MTA3MGU2YTg2OTU5ZDlhMDRmMWY3MWM4ZjU2MDg4NzgwZGU2Y2U1ZjA3YTU3ZmNmM2Y=--ba6dc9a2e681105d86830eafc28fa89d7d6f906f">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTU5NzA0MTU0OjQ1ZTUzYmU4MGJlYWJiMmQ0NTdiNjI2OWZjYjk3ZmEyMjU3ZWM1NDU0NzU2ZmM4OGY1ZGY2YTJjZTMwZGZkZDA=--9dbad2ed23343d65294b130b8258bf7d6eec529d">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="EF8B:4821:566F145:886CB03:58C61A08" data-pjax-transient>
+  <meta name="request-id" content="EF8B:4821:566FE3B:886DE3B:58C61A1C" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -41,7 +41,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EF8B:4821:566F145:886CB03:58C61A08" name="octolytics-dimension-request_id" /><meta content="25910133" name="octolytics-actor-id" /><meta content="kanishkmittal" name="octolytics-actor-login" /><meta content="c0be4fbf4f0d431a2afc83e1e9ecf26d68902376a697f21f8771ff7dc690133e" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EF8B:4821:566FE3B:886DE3B:58C61A1C" name="octolytics-dimension-request_id" /><meta content="25910133" name="octolytics-actor-id" /><meta content="kanishkmittal" name="octolytics-actor-login" /><meta content="c0be4fbf4f0d431a2afc83e1e9ecf26d68902376a697f21f8771ff7dc690133e" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -56,7 +56,7 @@
   <meta name="user-login" content="kanishkmittal">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YTJjMTZjMGVmZmRmMTJjYjUwYTZkMjZhYzU4ZGQyYTk2ZWUyNjZmN2NlNDliNmFmNDE1MmI0ZDFmNDVjYzllY3x7InJlbW90ZV9hZGRyZXNzIjoiOTguMjI2LjIxNy4xMDkiLCJyZXF1ZXN0X2lkIjoiRUY4Qjo0ODIxOjU2NkYxNDU6ODg2Q0IwMzo1OEM2MUEwOCIsInRpbWVzdGFtcCI6MTQ4OTM3NzgwNiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="NjUyZGIyZDM2M2FmZTYzMDUxNmI5NTIxMjk3Y2E1MmRkYjQ2ZDk2Mzg1MjUxNDdhYmQyMDM1OTdhYmU2MjMwMXx7InJlbW90ZV9hZGRyZXNzIjoiOTguMjI2LjIxNy4xMDkiLCJyZXF1ZXN0X2lkIjoiRUY4Qjo0ODIxOjU2NkZFM0I6ODg2REUzQjo1OEM2MUExQyIsInRpbWVzdGFtcCI6MTQ4OTM3NzgyNywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
 
   <meta name="html-safe-nonce" content="0624ed7df21239ca320d699ca7a0bd751149a834">
@@ -72,7 +72,7 @@
       <link href="https://github.com/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09.atom" rel="alternate" title="Recent Commits to crimsoncomp:85e685805c86211c66ce8dedb2284579891e9d09" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/asst3.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -217,7 +217,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XLwx7t9d+6RkJXdrypuR1lR5fJNmn9tVKPvxgLjsOx/TQ3L/yOqJlOIsHSANCyUa34co4vnlWOSuKK96Lt7WcA==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3M48xQksK+tRNVcmJfKm5AphSejePm6xTrhZ4NxV8sJTMX/UHptZ29c8PW3iYhIogZ8dmUFE7QDIawcaSmcfrQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -227,7 +227,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xPrvWFrezJzm3npWv1ADZqJPPgA33bc+TnfkeLXoNONLBaxJTWm+rGDXEB14wLeqKbFqcainNI/IpLqCI9rZjA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4Waw9+2lNsGDyH88w6lWfifeFYRv5coLnva0vfxCSk1umfPm+hJE8QXBFXcEOeKyrCBB9fCfSboYJepHanCnIg==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -258,7 +258,7 @@
 
     <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+9IsSlRr7kRSR1ToQW7Ld9OS8GKqcu9cvlNSxkIaH871oRW3CJMO0SaEsjeHjFiyXhWssx/y65wGzvi+n9XGSA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="81751532" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="tBAoaCZioMvqkkqa9uazQIJVVVSaQ4Fsv3Vjnm8quvC6YxGVeppAXp5RrEUwBCCFD9IJhS/DhawH6MnmsuVjdg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="81751532" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/dansoberanes/crimsoncomp/subscription"
@@ -333,7 +333,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4GgPn2X3UgXRacRKIYt4CmUGxmZ4O7/WtsiTGw13icJWcwvyjNDsD0wbwv3D8JiEYrHErbq0FXeWOGUp0wb1hA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PtUyAWa3ESl2e4CuR+M/iFOpvvMtdGiD67o5di7FomqIzjZsj5CvI+sJhhmlmN8GVB68OO/7wiLLSs9E8LTeLA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -347,7 +347,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M8lARJspnqmnHgtUMORbgJeP3m/z5otwG2Ga8cj8LcBqCC4z09eRCzPRjjrfEAAfN9/C4XIBLZByNMBGM+sL4Q==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6d32Oil7KRTFjMShkZOlckE6Pq5pz52v1+Q/6tF8FgmwHJhNYYUmtlFDQc9+Z/7t4WoiIOgoO0++sWVdKmswKA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -365,7 +365,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="cKVjgFVmStKJFvlqhMhdVB/bNahGcdK6Bs7PY2Za9uPnQz727woNtmnSnBwmzfGKOhQcpKj2Qnma5eEBFgmyFA==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rfuZvF1c82BycrwsLr5++xF/jL8K6kCuLpOpJ2ryCa46HcTK5zC0BJK22VqMu9IlNLCls+Rt0G2yuIdFGqFNWQ==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -448,9 +448,9 @@
 
     
 
-<a href="/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/asst3.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:af9e293cd0475b0043adfe503c7e1492 -->
+<!-- blob contrib key: blob_contributors:v21:2a16d7c8323cbd643a8f87c5e55133da -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -492,7 +492,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dansoberanes/crimsoncomp/blob/assn1-edit/asst3/newspaper/README.md"
+               href="/dansoberanes/crimsoncomp/blob/assn1-edit/asst3/asst3.md"
                data-name="assn1-edit"
                data-skip-pjax="true"
                rel="nofollow">
@@ -502,7 +502,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dansoberanes/crimsoncomp/blob/master/asst3/newspaper/README.md"
+               href="/dansoberanes/crimsoncomp/blob/master/asst3/asst3.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -539,11 +539,11 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09"><span>crimsoncomp</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3"><span>asst3</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper"><span>newspaper</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09"><span>crimsoncomp</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3"><span>asst3</span></a></span><span class="separator">/</span><strong class="final-path">asst3.md</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/dansoberanes/crimsoncomp/contributors/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md">
+<include-fragment class="commit-tease" src="/dansoberanes/crimsoncomp/contributors/85e685805c86211c66ce8dedb2284579891e9d09/asst3/asst3.md">
   <div>
     Fetching contributors&hellip;
   </div>
@@ -559,9 +559,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/dansoberanes/crimsoncomp/raw/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/dansoberanes/crimsoncomp/blame/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/dansoberanes/crimsoncomp/raw/85e685805c86211c66ce8dedb2284579891e9d09/asst3/asst3.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/dansoberanes/crimsoncomp/blame/85e685805c86211c66ce8dedb2284579891e9d09/asst3/asst3.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09/asst3/asst3.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -580,15 +580,284 @@
   </div>
 
   <div class="file-info">
-      2 lines (1 sloc)
+      227 lines (150 sloc)
       <span class="file-info-divider"></span>
-    15 Bytes
+    11.4 KB
   </div>
 </div>
 
   
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><p>"# newspaper" </p>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-assignment-3-how-to-django" class="anchor" href="#assignment-3-how-to-django" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Assignment 3: How to Django</h1>
+
+<p>This week, we're going to make our own mock (mock as in fake, not as in making fun; don't do that or we'll eat you) online newspaper using Django! </p>
+
+<p>We'll walk you through step-by-step (via an abridged version of the full <a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">Django tutorial</a>). Fair warning: there is quite a bit to read! However, what you actually have to do is not too nebulous. If you're ever confused, don't be afraid to ask Gabbi (<a href="mailto:gabbi.merz@thecrimson.com">gabbi.merz@thecrimson.com</a>) or Lydia (<a href="mailto:lydia.goldberg@thecrimson.com">lydia.goldberg@thecrimson.com</a>) for help!</p>
+
+<h2><a id="user-content-setting-up" class="anchor" href="#setting-up" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Setting up</h2>
+
+<ol>
+<li><p>Create the virtual environment for your project, if you haven't already. If you want to call it <code>crimson</code>, try running</p>
+
+<pre><code>$ mkvirtualenv crimson
+</code></pre></li>
+<li><p>Make sure you're in your virtual environment:</p>
+
+<pre><code>$ workon crimson
+</code></pre></li>
+<li><p>Install the latest version (1.8) of Django!</p>
+
+<pre><code>(crimson)$ pip install Django
+</code></pre></li>
+</ol>
+
+<h2><a id="user-content-create-your-project" class="anchor" href="#create-your-project" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Create your project</h2>
+
+<p>Now it's time to set up the basic file structure for your django project!</p>
+
+<p>First <code>cd</code> into a folder in your terminal, then run</p>
+
+<pre><code>django-admin startproject newspaper
+</code></pre>
+
+<p>This will create a <code>newspaper</code> direcotry in your current directory. If it didn't work, try <a href="https://docs.djangoproject.com/en/1.8/faq/troubleshooting/">troubleshooting here</a>.</p>
+
+<p>Let's see what was created!</p>
+
+<pre><code>newspaper/
+├── manage.py
+└── newspaper
+    ├── __init__.py
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+</code></pre>
+
+<p>Take note of the following files:</p>
+
+<ul>
+<li><code>manage.py</code>: A command-line utility that lets you interact with this Django project in various ways. You can read all the details about <code>manage.py</code> in <a href="https://docs.djangoproject.com/en/1.8/ref/django-admin/">django-admin and manage.py</a>.</li>
+<li><code>newspaper/settings.py</code>: Settings and configuration for this Django project. <a href="https://docs.djangoproject.com/en/1.8/topics/settings/">Django settings</a> will tell you more about how this file works.</li>
+<li><code>newspaper/urls.py</code>: This file tells your Django app what pages correspond to what urls. Consider it your site's "table of contents". Read more about it <a href="https://docs.djangoproject.com/en/1.8/topics/http/urls/">here</a>.</li>
+</ul>
+
+<p>That's literally it.</p>
+
+<h2><a id="user-content-did-it-work-lets-check-development-server" class="anchor" href="#did-it-work-lets-check-development-server" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Did it work? Let's check! (development server)</h2>
+
+<p><code>cd</code> into the outer <code>newspaper</code> directory. In the terminal, run</p>
+
+<pre><code>python manage.py runserver
+</code></pre>
+
+<p>You should see the following output:</p>
+
+<pre><code>Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+
+September 29, 2015 - 05:32:53
+Django version 1.8.4, using settings 'newspaper.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+</code></pre>
+
+<p>You’ve started the Django development server, a lightweight Web server written purely in Python so you don't have to mess with fancy stuff like Apache.</p>
+
+<p>It totally works, too! <a href="https://www.youtube.com/watch?v=OPf0YbXqDm0&amp;feature=youtu.be&amp;t=65">Don't believe me? Just watch</a>: you can navigate to <a href="http://localhost:8000/">http://localhost:8000/</a> via your favorite web browser. You should now see a spiffy message!</p>
+
+<p>Now to set up the database...</p>
+
+<h2><a id="user-content-database-setup" class="anchor" href="#database-setup" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Database Setup</h2>
+
+<p>We're going to use SQLite (the default) as our backend, but note that the crimson uses MySQL behind the scenes. Thankfully, Django abstracts away all the direct interaction with the database, so it looks all the same from your point of view!</p>
+
+<h3><a id="user-content-tell-django-youre-using-sqlite3" class="anchor" href="#tell-django-youre-using-sqlite3" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Tell Django you're using SQLite3</h3>
+
+<p>Django 1.8 uses SQLite3 by default, which is the easiest database to get started with. If you look at the contents of your <code>newspaper</code> directory, you'll see a new file <code>db.sqlite3</code> that was created when you ran the development server; this file contains the contents of your (initially emtpy) database. If you're curious about why it's there and called what it's called, check out the <code>DATABASES</code> variable in <code>settings.py</code>.</p>
+
+<h3><a id="user-content-create-tables-inside-the-database" class="anchor" href="#create-tables-inside-the-database" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Create tables inside the database</h3>
+
+<p>Django comes with a bunch of useful preinstalled apps (check out the <code>INSTALLED_APPS</code> variable in <code>settings.py</code>), and some of those apps require tables in your (currently empty) database. To create those tables, run</p>
+
+<pre><code>$ python manage.py migrate
+</code></pre>
+
+<p>You should see some output that looks like</p>
+
+<pre><code>Operations to perform:
+  Synchronize unmigrated apps: staticfiles, messages
+  Apply all migrations: admin, contenttypes, auth, sessions
+Synchronizing apps without migrations:
+  Creating tables...
+    Running deferred SQL...
+  Installing custom SQL...
+Running migrations:
+  Rendering model states... DONE
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying sessions.0001_initial... OK
+</code></pre>
+
+<p>This runs a bunch of Python called <strong>migrations</strong> which create the necessary tables in your database. These particular migrations came packaged Django, but we'll be making our own soon enough.</p>
+
+<h2><a id="user-content-creating-models" class="anchor" href="#creating-models" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Creating models</h2>
+
+<p>Now that your environment – a “project” – is set up, you’re set to start doing work.
+Each application ("app") you write in Django consists of a Python package, somewhere on your <a href="https://docs.python.org/2/tutorial/modules.html#the-module-search-path">Python path</a>, that follows a certain convention. Django made a nifty little command to create these directories for you!</p>
+
+<p>Let's create an app called <code>content</code> to encapsulate the objects/database stuff that goes into an online newspaper. Navigate to the same folder as <code>manage.py</code> and run:</p>
+
+<pre><code>python manage.py startapp content
+</code></pre>
+
+<p>That’ll create a directory <code>content</code>, which is laid out like this:</p>
+
+<pre><code>content/
+├── __init__.py
+├── admin.py
+├── migrations
+│   └── __init__.py
+├── models.py
+├── tests.py
+└── views.py
+</code></pre>
+
+<p>The first step in writing a database Web app in Django is to define your models – essentially, your database layout, with additional metadata.</p>
+
+<p>In our content app, we'll create 4 models: <strong>Content</strong>, <strong>Article</strong>, <strong>Image</strong>, and <strong>Contributor</strong>. Article and Image should extend Content.</p>
+
+<p>Sound familiar? You basically had the same type of structure in the last assignment! Except this time, instead of extending object, <strong>Content</strong> should extend <strong>models.Model</strong>, the base model for Django projects.</p>
+
+<p>Update <code>content/models.py</code> to look like this:</p>
+
+<pre><code>from django.db import models
+
+
+class Content(models.Model):
+    title = models.CharField(max_length=500)
+    subtitle = models.CharField(max_length=500)
+    contributors = models.ManyToManyField('Contributor',
+                                          related_name='content')
+    pub_date = models.DateTimeField('date published')
+
+
+class Article(Content):
+    pass
+
+
+class Contributor(models.Model):
+    pass
+
+</code></pre>
+
+<p>As you can see, attributes of objects map to "fields" in Django, each of which is represented by an instance of a <a href="https://docs.djangoproject.com/en/1.8/howto/custom-model-fields/#django.db.models.Field">Field</a> class – e.g., <a href="https://docs.djangoproject.com/en/1.8/ref/models/fields/#django.db.models.CharField">CharField</a> for shorter strings and <a href="https://docs.djangoproject.com/en/1.8/ref/models/fields/#django.db.models.DateTimeField">DateTimeField</a> for datetimes. This tells Django what type of data each field holds.</p>
+
+<p>See <a href="https://docs.djangoproject.com/en/1.8/ref/models/fields/#model-field-types">this link</a> for a list of all the built-in field types. <strong>Sidenote:</strong> the Django tutorial/documentation is nebulous and sometimes hard to navigate. If you're stuck, please don't be afraid to reach out to Jessica or Kyle for help!</p>
+
+<p>Finally, note a relationship is defined, using a ManyToManyField. That tells Django each Content is related to (possibly many) . Django supports all the common database relationships: many-to-ones, many-to-manys and one-to-ones.</p>
+
+<blockquote>
+<p><strong>TODO</strong> Now, let's fill in the blanks! Create the Article, Image, and Contributor classes.</p>
+</blockquote>
+
+<h3><a id="user-content-the-article-model-should-additionally-have" class="anchor" href="#the-article-model-should-additionally-have" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>The Article model should (additionally) have:</h3>
+
+<p><strong>Attributes:</strong></p>
+
+<ul>
+<li><code>text</code>: contains the text of an article. This might not fit into a <code>CharField</code>; see if you can find a Django field suitable for storing larger amounts of text.</li>
+</ul>
+
+<p><strong>Methods:</strong></p>
+
+<ul>
+<li><code>show()</code> (optional): Return a nicely formatted string with information about the Article. </li>
+</ul>
+
+<h3><a id="user-content-the-contributor-model-should-have" class="anchor" href="#the-contributor-model-should-have" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>The Contributor model should have:</h3>
+
+<p><strong>Attributes:</strong></p>
+
+<ul>
+<li><code>first_name</code> </li>
+<li><code>last_name</code></li>
+</ul>
+
+<p><strong>Methods:</strong></p>
+
+<ul>
+<li><code>die</code>: You're dead to us now; remove yourself from the database (hint: check out <a href="https://docs.djangoproject.com/en/1.9/ref/models/instances/#deleting-objects">this attribute</a> of a models.Model).</li>
+</ul>
+
+<h2><a id="user-content-get-your-models-in-the-database" class="anchor" href="#get-your-models-in-the-database" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Get your models in the database!</h2>
+
+<p>That small bit of model code gives Django a lot of information. With it, Django is able to:</p>
+
+<ul>
+<li>Create a database schema (<code>CREATE TABLE</code> statements) for this app.</li>
+<li>Create a Python database-access API for accessing Contributor and Content objects.</li>
+</ul>
+
+<p>However, Django can't do any of this unless we tell our project that our <code>content</code> app exists. To do this, we'll need to modify the <code>INSTALLED_APPS</code> tuple in <code>settings.py</code>.</p>
+
+<blockquote>
+<p><strong>TODO</strong>: Add the string <code>'content'</code> to the <code>INSTALLED_APPS</code> tuple in <code>settings.py</code>.</p>
+</blockquote>
+
+<p>Now we have all these awesome Python models, but we haven't actually created corresponding tables in the database yet (which was, like, the whole point of models, right?). To create these tables, we need to update our database. Remember those migrations we ran earlier? Let's make one of our own.</p>
+
+<p>First, let's ask Django to create our migration for us. Run</p>
+
+<pre><code>python manage.py makemigrations content
+</code></pre>
+
+<p>You should see some output telling you that it made a migration called called <code>0001_initial.py</code>. You'll also see some output giving you a summary of what that migration will do, but that's not good enough for us. Let's take a look at the actual migration!</p>
+
+<p>If you look inside the <code>content/migrations/</code> directory, you should see a newly created file <code>0001_initial.py</code>. Take a peek inside! At this point there's no need to understand exactly what's going on in there, but get a feel for what these migration files look like.</p>
+
+<p>Finally, to actually create the the tables in our database, we need to run this new migration. As with the first round of migrations, just run</p>
+
+<pre><code>python manage.py migrate
+</code></pre>
+
+<p>See that bit of output? Yeah, that's the one. <code>Applying content.0001_initial... OK</code>. It freaking worked! We have our tables! :D</p>
+
+<h2><a id="user-content-last-checks" class="anchor" href="#last-checks" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Last checks</h2>
+
+<ul>
+<li>Does <code>python manage.py runserver</code> work as expected?</li>
+<li>Try experimenting with your models in the Python shell by running <code>python manage.py shell</code>
+
+<ul>
+<li>Can you create new instances of your model in the Python shell?
+
+<ul>
+<li>You'll first have to import your models (<code>from content.models import Contributor, ...</code>)</li>
+<li>Create them with syntax like <code>c = Contributor(last_name="Ever", first_name="Greatest")</code></li>
+</ul></li>
+<li>If you create a Contributor <code>c</code> and call <code>c.save()</code>, does it exist in the database?
+
+<ul>
+<li>After doing this, exit the shell, reenter the shell, then run <code>Contributor.objects.all()</code>. Is your contributor in that list?</li>
+</ul></li>
+<li>Try tying an author to an article -- that is, associating a Contributor to an Article. Take a look at the <a href="https://docs.djangoproject.com/en/1.9/topics/db/examples/many_to_many/">ManyToManyField</a> documentation!</li>
+</ul></li>
+</ul>
+
+<h2><a id="user-content-feedback" class="anchor" href="#feedback" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Feedback</h2>
+
+<p>You're done! Congrats! Just push your code to your Github, and you can wipe your hands of the whole thing (until next week!).</p>
 </article>
   </div>
 
@@ -627,7 +896,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.09838s from github-fe125-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.14020s from github-fe147-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
