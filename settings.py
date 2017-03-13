@@ -20,7 +20,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>crimsoncomp/models.py at 85e685805c86211c66ce8dedb2284579891e9d09 · dansoberanes/crimsoncomp</title>
+  <title>crimsoncomp/settings.py at 85e685805c86211c66ce8dedb2284579891e9d09 · dansoberanes/crimsoncomp</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -29,10 +29,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/13576332?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="dansoberanes/crimsoncomp" property="og:title" /><meta content="https://github.com/dansoberanes/crimsoncomp" property="og:url" /><meta content="crimsoncomp - Documents for the Crimson Tech Comp" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTU5NzA0MTU0OjMyOGJhZmQ3MDczZDllNDk5ZGQ3MzA0Njg1ODdlYWZiNWRkMWVlYThjMmEwNjIzMzU0YTAyZjIwMTM4YTkwMTc=--0ce4362d4a2c6d51a5ded0d54a96d5b2e32f3008">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTU5NzA0MTU0OjA2ZmUwNWNmNjI2NGE1ODljMTdiYjA1ZjZlOGY3MTRkMTY0OTNmMGRjZTM2YjA5OTg5ZGE3YWMwMzE5MGU2ZDQ=--d14beb37e65796589565073a98d1f2e365a5614b">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="EF89:4821:566CB2E:8868EDD:58C619CB" data-pjax-transient>
+  <meta name="request-id" content="EF6E:4821:5663B3C:885A86D:58C618D7" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -41,7 +41,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EF89:4821:566CB2E:8868EDD:58C619CB" name="octolytics-dimension-request_id" /><meta content="25910133" name="octolytics-actor-id" /><meta content="kanishkmittal" name="octolytics-actor-login" /><meta content="c0be4fbf4f0d431a2afc83e1e9ecf26d68902376a697f21f8771ff7dc690133e" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EF6E:4821:5663B3C:885A86D:58C618D7" name="octolytics-dimension-request_id" /><meta content="25910133" name="octolytics-actor-id" /><meta content="kanishkmittal" name="octolytics-actor-login" /><meta content="c0be4fbf4f0d431a2afc83e1e9ecf26d68902376a697f21f8771ff7dc690133e" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -56,9 +56,8 @@
   <meta name="user-login" content="kanishkmittal">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YmMzZmU2NmY3NTY4NjlkYjhiMjk0NjUzNzM0M2IyMWM1NWQ5Y2JiZGMzNWY3MjdkNjM5M2RmNmRhNDQ5NjhkN3x7InJlbW90ZV9hZGRyZXNzIjoiOTguMjI2LjIxNy4xMDkiLCJyZXF1ZXN0X2lkIjoiRUY4OTo0ODIxOjU2NkNCMkU6ODg2OEVERDo1OEM2MTlDQiIsInRpbWVzdGFtcCI6MTQ4OTM3Nzc0MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="NzBjMzJiYzk4YjFmNmQyYTFiNTU1NzkwYjdiNzU1ZDg2YjM0NDc1ZWE2YTVmNjU0MWExZmM0NWVkYTVmMzE2Nnx7InJlbW90ZV9hZGRyZXNzIjoiOTguMjI2LjIxNy4xMDkiLCJyZXF1ZXN0X2lkIjoiRUY2RTo0ODIxOjU2NjNCM0M6ODg1QTg2RDo1OEM2MThENyIsInRpbWVzdGFtcCI6MTQ4OTM3NzUwMCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
-    <meta name="accessibility-logger" value="1">
 
   <meta name="html-safe-nonce" content="0624ed7df21239ca320d699ca7a0bd751149a834">
 
@@ -73,7 +72,7 @@
       <link href="https://github.com/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09.atom" rel="alternate" title="Recent Commits to crimsoncomp:85e685805c86211c66ce8dedb2284579891e9d09" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/content/models.py" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/newspaper/settings.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -218,7 +217,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="G9WQ2QXd8OUgV27u6pCYcoWjWLHSFaq5VNtiApeQMt6UKtPIEmqC1aZeBKUtACy+Dl0MwE1vKQjSCDz4AaLfsQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MESKwXIOsvChJdhBKFV006MJRh+Q0Cg6Tb2ffJ8F6qi/u8nQZbnAwCcssgrvxcAfKPcSbg+qq4vLbsGGCTcHxw==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -228,7 +227,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="SGJ4uhp/ldncWS4ke9Vps4HAv3PVr8heotRKuC+3Z3fHnTurDcjn6VpQRG+8Rd1/Cj7rAkrVS+8kBxRCuYWKGA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AXTTJSMQSd6qm7CmKVa34e7jVsKdiXTWVoKVAtSiGkCOi5A0NKc77iyS2u3uxgMtZR0CswLz92fQUcv4QpD3Lw==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -259,7 +258,7 @@
 
     <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1nrPpPDYGHVjbc20RFdYz5a3+99cf7cI6lSxmOEnG+HYCfZZrCD44BeuK2uCtcsKGzCnDun/s8hSyRvgPOjCZw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="81751532" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PATLX5u0byrZf4on2dyaZLihqUX08+2ww9S/zV8E/K8yd/Kix0yPv628bPgfPgmhNSb1lEFz6XB7SRW1gsslKQ==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="81751532" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/dansoberanes/crimsoncomp/subscription"
@@ -334,7 +333,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TS9smR36Mrv2g4/DbifEObqiGuihOfqPyv2qRs6AA3j7NGj09N2MsWvxiXSMXCS3vRUYI2O2UC7qDVx0EPF/Pg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="RnS3KlZlzX5APwr/zThibSLcd6uXFXbaJyfSUxtcdm7wb7NHv0JzdN1NDEgvQ4LjJWt1YFWa3HsH1yRhxS0KKA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -348,7 +347,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="SMzG23njAcdi/2OjjcDE3OnOvy7cxV4nJy2YwvzGpUwRDaisMR0OZfYw5s1iNJ9DSZ6joF0i+MdOeMJ1B9GDbQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uxOG9zL2gBydeMbFGd2NqMycyefqWpJ3eZK3S+Dhyjji0uiAegiPvgm3Q6v2KdY3bMzVaWu9NJcQx+38G/bsGQ==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -366,7 +365,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zatwRrhnojHc4yiwRHt3SzXAFVnAkCbV8/55j9OISGxaTS0wAgvlVTwnTcbmftuVEA88VS4XthZv1Vfto9sMmw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="69xGPR7Q35RZtxyfr4SOCWZy1pB9LAjN3WsB0hC6Whx8OhtLpLyY8LlzeekNgSLXQ73/nJOrmA5BQC+wYOke6w==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -449,9 +448,9 @@
 
     
 
-<a href="/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/content/models.py" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/newspaper/settings.py" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:84ed472f3242cb91266e1dc2415c6417 -->
+<!-- blob contrib key: blob_contributors:v21:6efe19eaa0a130e623f4f00113b11945 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -493,7 +492,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dansoberanes/crimsoncomp/blob/assn1-edit/asst3/newspaper/content/models.py"
+               href="/dansoberanes/crimsoncomp/blob/assn1-edit/asst3/newspaper/newspaper/settings.py"
                data-name="assn1-edit"
                data-skip-pjax="true"
                rel="nofollow">
@@ -503,7 +502,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dansoberanes/crimsoncomp/blob/master/asst3/newspaper/content/models.py"
+               href="/dansoberanes/crimsoncomp/blob/master/asst3/newspaper/newspaper/settings.py"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -540,11 +539,11 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09"><span>crimsoncomp</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3"><span>asst3</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper"><span>newspaper</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/content"><span>content</span></a></span><span class="separator">/</span><strong class="final-path">models.py</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09"><span>crimsoncomp</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3"><span>asst3</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper"><span>newspaper</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/newspaper"><span>newspaper</span></a></span><span class="separator">/</span><strong class="final-path">settings.py</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/dansoberanes/crimsoncomp/contributors/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/content/models.py">
+<include-fragment class="commit-tease" src="/dansoberanes/crimsoncomp/contributors/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/newspaper/settings.py">
   <div>
     Fetching contributors&hellip;
   </div>
@@ -560,9 +559,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/dansoberanes/crimsoncomp/raw/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/content/models.py" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/dansoberanes/crimsoncomp/blame/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/content/models.py" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/content/models.py" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/dansoberanes/crimsoncomp/raw/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/newspaper/settings.py" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/dansoberanes/crimsoncomp/blame/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/newspaper/settings.py" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/newspaper/settings.py" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -581,9 +580,9 @@
   </div>
 
   <div class="file-info">
-      43 lines (30 sloc)
+      122 lines (88 sloc)
       <span class="file-info-divider"></span>
-    1.12 KB
+    3.05 KB
   </div>
 </div>
 
@@ -593,75 +592,74 @@
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">from</span> django.db <span class="pl-k">import</span> models</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-pds">&quot;&quot;&quot;</span></span></td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-s">Django settings for newspaper project.</span></td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">class</span> <span class="pl-en">Content</span>(<span class="pl-e">models</span>.<span class="pl-e">Model</span>):</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-s">Generated by &#39;django-admin startproject&#39; using Django 1.10.6.</span></td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">    title <span class="pl-k">=</span> models.CharField(<span class="pl-v">max_length</span><span class="pl-k">=</span><span class="pl-c1">500</span>)</td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">    subtitle <span class="pl-k">=</span> models.CharField(<span class="pl-v">max_length</span><span class="pl-k">=</span><span class="pl-c1">500</span>)</td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-s">For more information on this file, see</span></td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">    contributors <span class="pl-k">=</span> models.ManyToManyField(<span class="pl-s"><span class="pl-pds">&#39;</span>Contributor<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-s">https://docs.djangoproject.com/en/1.10/topics/settings/</span></td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">                                          <span class="pl-v">related_name</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&#39;</span>content<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">    pub_date <span class="pl-k">=</span> models.DateTimeField(<span class="pl-s"><span class="pl-pds">&#39;</span>date published<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-s">For the full list of settings and their values, see</span></td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-s">https://docs.djangoproject.com/en/1.10/ref/settings/</span></td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">class</span> <span class="pl-en">Article</span>(<span class="pl-e">Content</span>):</td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-pds">&quot;&quot;&quot;</span></span></td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">    title <span class="pl-k">=</span> Content.title</td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">    subtitle <span class="pl-k">=</span> Content.subtitle</td>
-      </tr>
-      <tr>
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">    contributors <span class="pl-k">=</span> Content.contributors</td>
-      </tr>
-      <tr>
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">    pub_date <span class="pl-k">=</span> Content.pub_date</td>
-      </tr>
-      <tr>
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">
 </td>
       </tr>
       <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> os</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Build paths inside the project like this: os.path.join(BASE_DIR, ...)</span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">BASE_DIR</span> <span class="pl-k">=</span> os.path.dirname(os.path.dirname(os.path.abspath(<span class="pl-c1">__file__</span>)))</td>
+      </tr>
+      <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">    text <span class="pl-k">=</span> models.TextField(<span class="pl-s"><span class="pl-pds">&#39;</span>article text<span class="pl-pds">&#39;</span></span>, <span class="pl-v">default</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&#39;</span>TEXT<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
@@ -670,11 +668,11 @@
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-c1">__str__</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>):</td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Quick-start development settings - unsuitable for production</span></td>
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">self</span>.title</td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> See https://docs.djangoproject.com/en/1.10/howto/deployment/checklist/</span></td>
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
@@ -683,11 +681,11 @@
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">class</span> <span class="pl-en">Meta</span>:</td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> SECURITY WARNING: keep the secret key used in production secret!</span></td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line">        ordering <span class="pl-k">=</span> (<span class="pl-s"><span class="pl-pds">&#39;</span>title<span class="pl-pds">&#39;</span></span>,)</td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">SECRET_KEY</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&#39;</span>aflz&amp;6(*7#7v!+jbxqf^aku43r6_lbzniqnh8!k)^2ms9e=&amp;dq<span class="pl-pds">&#39;</span></span></td>
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
@@ -696,19 +694,20 @@
       </tr>
       <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-en">show</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>):</td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> SECURITY WARNING: don&#39;t run with debug turned on in production!</span></td>
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">        string <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Title: <span class="pl-pds">&quot;</span></span> <span class="pl-k">+</span> <span class="pl-c1">self</span>.title <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\n</span>Subtitle: <span class="pl-pds">&quot;</span></span> <span class="pl-k">+</span> <span class="pl-c1">self</span>.subtitle \</td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">DEBUG</span> <span class="pl-k">=</span> <span class="pl-c1">True</span></td>
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\n</span>Published: <span class="pl-pds">&quot;</span></span> <span class="pl-k">+</span> <span class="pl-c1">self</span>.pub_date <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\n\n</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">+</span> <span class="pl-c1">self</span>.text</td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> string</td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">ALLOWED_HOSTS</span> <span class="pl-k">=</span> []</td>
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
@@ -722,54 +721,388 @@
       </tr>
       <tr>
         <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-k">class</span> <span class="pl-en">Contributor</span>(<span class="pl-e">models</span>.<span class="pl-e">Model</span>):</td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Application definition</span></td>
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">    first_name <span class="pl-k">=</span> models.CharField(<span class="pl-v">max_length</span><span class="pl-k">=</span><span class="pl-c1">500</span>)</td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">    last_name <span class="pl-k">=</span> models.CharField(<span class="pl-v">max_length</span><span class="pl-k">=</span><span class="pl-c1">500</span>)</td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">INSTALLED_APPS</span> <span class="pl-k">=</span> [</td>
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.admin<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-c1">__str__</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>):</td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.auth<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">self</span>.first_name <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">&quot;</span> <span class="pl-pds">&quot;</span></span> <span class="pl-k">+</span> <span class="pl-c1">self</span>.last_name</td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.contenttypes<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.sessions<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">class</span> <span class="pl-en">Meta</span>:</td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.messages<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line">        ordering <span class="pl-k">=</span> (<span class="pl-s"><span class="pl-pds">&#39;</span>first_name<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&#39;</span>last_name<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.staticfiles<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>content<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-en">die</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>):</td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">]</td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">self</span>.models.delete()</td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">MIDDLEWARE</span> <span class="pl-k">=</span> [</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.middleware.security.SecurityMiddleware<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.sessions.middleware.SessionMiddleware<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.middleware.common.CommonMiddleware<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.middleware.csrf.CsrfViewMiddleware<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.auth.middleware.AuthenticationMiddleware<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.messages.middleware.MessageMiddleware<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>django.middleware.clickjacking.XFrameOptionsMiddleware<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">]</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">ROOT_URLCONF</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&#39;</span>newspaper.urls<span class="pl-pds">&#39;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">TEMPLATES</span> <span class="pl-k">=</span> [</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>BACKEND<span class="pl-pds">&#39;</span></span>: <span class="pl-s"><span class="pl-pds">&#39;</span>django.template.backends.django.DjangoTemplates<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>DIRS<span class="pl-pds">&#39;</span></span>: [],</td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>APP_DIRS<span class="pl-pds">&#39;</span></span>: <span class="pl-c1">True</span>,</td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>OPTIONS<span class="pl-pds">&#39;</span></span>: {</td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">            <span class="pl-s"><span class="pl-pds">&#39;</span>context_processors<span class="pl-pds">&#39;</span></span>: [</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">                <span class="pl-s"><span class="pl-pds">&#39;</span>django.template.context_processors.debug<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">                <span class="pl-s"><span class="pl-pds">&#39;</span>django.template.context_processors.request<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">                <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.auth.context_processors.auth<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">                <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.messages.context_processors.messages<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">            ],</td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">        },</td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">    },</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">]</td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">WSGI_APPLICATION</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&#39;</span>newspaper.wsgi.application<span class="pl-pds">&#39;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Database</span></td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> https://docs.djangoproject.com/en/1.10/ref/settings/#databases</span></td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">DATABASES</span> <span class="pl-k">=</span> {</td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&#39;</span>default<span class="pl-pds">&#39;</span></span>: {</td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>ENGINE<span class="pl-pds">&#39;</span></span>: <span class="pl-s"><span class="pl-pds">&#39;</span>django.db.backends.sqlite3<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>NAME<span class="pl-pds">&#39;</span></span>: os.path.join(<span class="pl-c1">BASE_DIR</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>db.sqlite3<span class="pl-pds">&#39;</span></span>),</td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Password validation</span></td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators</span></td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">AUTH_PASSWORD_VALIDATORS</span> <span class="pl-k">=</span> [</td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>NAME<span class="pl-pds">&#39;</span></span>: <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.auth.password_validation.UserAttributeSimilarityValidator<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">    },</td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>NAME<span class="pl-pds">&#39;</span></span>: <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.auth.password_validation.MinimumLengthValidator<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">    },</td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>NAME<span class="pl-pds">&#39;</span></span>: <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.auth.password_validation.CommonPasswordValidator<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line">    },</td>
+      </tr>
+      <tr>
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>NAME<span class="pl-pds">&#39;</span></span>: <span class="pl-s"><span class="pl-pds">&#39;</span>django.contrib.auth.password_validation.NumericPasswordValidator<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">    },</td>
+      </tr>
+      <tr>
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line">]</td>
+      </tr>
+      <tr>
+        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Internationalization</span></td>
+      </tr>
+      <tr>
+        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> https://docs.djangoproject.com/en/1.10/topics/i18n/</span></td>
+      </tr>
+      <tr>
+        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">LANGUAGE_CODE</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&#39;</span>en-us<span class="pl-pds">&#39;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">TIME_ZONE</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&#39;</span>UTC<span class="pl-pds">&#39;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">USE_I18N</span> <span class="pl-k">=</span> <span class="pl-c1">True</span></td>
+      </tr>
+      <tr>
+        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">USE_L10N</span> <span class="pl-k">=</span> <span class="pl-c1">True</span></td>
+      </tr>
+      <tr>
+        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">USE_TZ</span> <span class="pl-k">=</span> <span class="pl-c1">True</span></td>
+      </tr>
+      <tr>
+        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Static files (CSS, JavaScript, Images)</span></td>
+      </tr>
+      <tr>
+        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> https://docs.djangoproject.com/en/1.10/howto/static-files/</span></td>
+      </tr>
+      <tr>
+        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">STATIC_URL</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&#39;</span>/static/<span class="pl-pds">&#39;</span></span></td>
       </tr>
 </table>
 
@@ -810,7 +1143,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.09184s from github-fe-235f48c.cp1-iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.10090s from github-fe149-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>

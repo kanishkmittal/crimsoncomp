@@ -20,7 +20,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>crimsoncomp/README.md at 85e685805c86211c66ce8dedb2284579891e9d09 · dansoberanes/crimsoncomp</title>
+  <title>crimsoncomp/manage.py at 85e685805c86211c66ce8dedb2284579891e9d09 · dansoberanes/crimsoncomp</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -29,10 +29,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/13576332?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="dansoberanes/crimsoncomp" property="og:title" /><meta content="https://github.com/dansoberanes/crimsoncomp" property="og:url" /><meta content="crimsoncomp - Documents for the Crimson Tech Comp" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTU5NzA0MTU0OjQ4MzdlMWVhYjJmYjQ2MTA3MGU2YTg2OTU5ZDlhMDRmMWY3MWM4ZjU2MDg4NzgwZGU2Y2U1ZjA3YTU3ZmNmM2Y=--ba6dc9a2e681105d86830eafc28fa89d7d6f906f">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTU5NzA0MTU0OmQ3NGQyYzNhMGI0OGZhNzNkM2ViNTk0N2FjNTc1MTVjZmI0MWQ4NzdiN2Y2NTg0MDJhZWM1NmFlOTkxZjU3MzA=--dc909b32b1b7dbed0f15c40d5213f44f3018f01d">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="EF8B:4821:566F145:886CB03:58C61A08" data-pjax-transient>
+  <meta name="request-id" content="EF6E:4821:56646ED:885B507:58C618E6" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -41,7 +41,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EF8B:4821:566F145:886CB03:58C61A08" name="octolytics-dimension-request_id" /><meta content="25910133" name="octolytics-actor-id" /><meta content="kanishkmittal" name="octolytics-actor-login" /><meta content="c0be4fbf4f0d431a2afc83e1e9ecf26d68902376a697f21f8771ff7dc690133e" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EF6E:4821:56646ED:885B507:58C618E6" name="octolytics-dimension-request_id" /><meta content="25910133" name="octolytics-actor-id" /><meta content="kanishkmittal" name="octolytics-actor-login" /><meta content="c0be4fbf4f0d431a2afc83e1e9ecf26d68902376a697f21f8771ff7dc690133e" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -56,7 +56,7 @@
   <meta name="user-login" content="kanishkmittal">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YTJjMTZjMGVmZmRmMTJjYjUwYTZkMjZhYzU4ZGQyYTk2ZWUyNjZmN2NlNDliNmFmNDE1MmI0ZDFmNDVjYzllY3x7InJlbW90ZV9hZGRyZXNzIjoiOTguMjI2LjIxNy4xMDkiLCJyZXF1ZXN0X2lkIjoiRUY4Qjo0ODIxOjU2NkYxNDU6ODg2Q0IwMzo1OEM2MUEwOCIsInRpbWVzdGFtcCI6MTQ4OTM3NzgwNiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="MjI0ZTcyMGM4ZTkzYTMxYzY5ODI5OTRmYmE5NTA4MDFhN2FmMWUwNGJkZWY4MDE4Yjc5YjM0NWZkMmQwMTljM3x7InJlbW90ZV9hZGRyZXNzIjoiOTguMjI2LjIxNy4xMDkiLCJyZXF1ZXN0X2lkIjoiRUY2RTo0ODIxOjU2NjQ2RUQ6ODg1QjUwNzo1OEM2MThFNiIsInRpbWVzdGFtcCI6MTQ4OTM3NzUxOSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
 
   <meta name="html-safe-nonce" content="0624ed7df21239ca320d699ca7a0bd751149a834">
@@ -72,7 +72,7 @@
       <link href="https://github.com/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09.atom" rel="alternate" title="Recent Commits to crimsoncomp:85e685805c86211c66ce8dedb2284579891e9d09" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/manage.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -217,7 +217,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XLwx7t9d+6RkJXdrypuR1lR5fJNmn9tVKPvxgLjsOx/TQ3L/yOqJlOIsHSANCyUa34co4vnlWOSuKK96Lt7WcA==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lzVl++Jdi1uWqxEwNBhuoImVorqpqrLMPN+Qzm9i2CAYyibq9er5axCie3vziNpsAmv2yzbQMX26DM40+VA1Tw==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -227,7 +227,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xPrvWFrezJzm3npWv1ADZqJPPgA33bc+TnfkeLXoNONLBaxJTWm+rGDXEB14wLeqKbFqcainNI/IpLqCI9rZjA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="eDCH/HOzuUQJDilsEjeUbgz4Wv7610uhsvpSLvcQTMn3z8TtZATLdI8HQyfVpyCihwYOj2WtyBA0KQzUYSKhpg==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -258,7 +258,7 @@
 
     <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+9IsSlRr7kRSR1ToQW7Ld9OS8GKqcu9cvlNSxkIaH871oRW3CJMO0SaEsjeHjFiyXhWssx/y65wGzvi+n9XGSA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="81751532" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1TPMCh082lFrmzfK4W3F8jOPbwk0gtpG1scK56ryBPzbQPX3QcQ6xB9Y0RUnj1Y3vggz2IEC3oZuWqCfdz3deg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="81751532" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/dansoberanes/crimsoncomp/subscription"
@@ -333,7 +333,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4GgPn2X3UgXRacRKIYt4CmUGxmZ4O7/WtsiTGw13icJWcwvyjNDsD0wbwv3D8JiEYrHErbq0FXeWOGUp0wb1hA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jbePeQLQR0TM1xNGT0/NpedLftr+eCPpupFd/jd8UJc7rIsU6/f5TlGlFfGtNC0r4Px8ETz3iUiaYavM6Q0s0Q==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -347,7 +347,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M8lARJspnqmnHgtUMORbgJeP3m/z5otwG2Ga8cj8LcBqCC4z09eRCzPRjjrfEAAfN9/C4XIBLZByNMBGM+sL4Q==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="SJ1E1IyE/93EC1jHnp0WopsM9EityK+/LNKacrAyhUkRXCqjxHrwf1DE3alxaU09O1zoxiwvCV9Fh8DFSyWjaA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -365,7 +365,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="cKVjgFVmStKJFvlqhMhdVB/bNahGcdK6Bs7PY2Za9uPnQz727woNtmnSnBwmzfGKOhQcpKj2Qnma5eEBFgmyFA==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dansoberanes/crimsoncomp/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2D7XJqHYXBhvZeZjp86Gub5EitfNfSXSa++qtrq1wNtP2IpQG7QbfI+hgxUFyypnm4uj2yP6tRH3xITUyuaELA==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -448,9 +448,9 @@
 
     
 
-<a href="/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/dansoberanes/crimsoncomp/blob/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/manage.py" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:af9e293cd0475b0043adfe503c7e1492 -->
+<!-- blob contrib key: blob_contributors:v21:33277e01b4d41fdf42755195e1ac7456 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -492,7 +492,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dansoberanes/crimsoncomp/blob/assn1-edit/asst3/newspaper/README.md"
+               href="/dansoberanes/crimsoncomp/blob/assn1-edit/asst3/newspaper/manage.py"
                data-name="assn1-edit"
                data-skip-pjax="true"
                rel="nofollow">
@@ -502,7 +502,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dansoberanes/crimsoncomp/blob/master/asst3/newspaper/README.md"
+               href="/dansoberanes/crimsoncomp/blob/master/asst3/newspaper/manage.py"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -539,11 +539,11 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09"><span>crimsoncomp</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3"><span>asst3</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper"><span>newspaper</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09"><span>crimsoncomp</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3"><span>asst3</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/dansoberanes/crimsoncomp/tree/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper"><span>newspaper</span></a></span><span class="separator">/</span><strong class="final-path">manage.py</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/dansoberanes/crimsoncomp/contributors/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md">
+<include-fragment class="commit-tease" src="/dansoberanes/crimsoncomp/contributors/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/manage.py">
   <div>
     Fetching contributors&hellip;
   </div>
@@ -559,9 +559,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/dansoberanes/crimsoncomp/raw/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/dansoberanes/crimsoncomp/blame/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/dansoberanes/crimsoncomp/raw/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/manage.py" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/dansoberanes/crimsoncomp/blame/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/manage.py" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/dansoberanes/crimsoncomp/commits/85e685805c86211c66ce8dedb2284579891e9d09/asst3/newspaper/manage.py" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -580,16 +580,107 @@
   </div>
 
   <div class="file-info">
-      2 lines (1 sloc)
+      23 lines (21 sloc)
       <span class="file-info-divider"></span>
-    15 Bytes
+    807 Bytes
   </div>
 </div>
 
   
-  <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><p>"# newspaper" </p>
-</article>
+
+  <div itemprop="text" class="blob-wrapper data type-python">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>!/usr/bin/env python</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> os</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> sys</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> <span class="pl-c1">__name__</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>__main__<span class="pl-pds">&quot;</span></span>:</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">    os.environ.setdefault(<span class="pl-s"><span class="pl-pds">&quot;</span>DJANGO_SETTINGS_MODULE<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>newspaper.settings<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">try</span>:</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">from</span> django.core.management <span class="pl-k">import</span> execute_from_command_line</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">except</span> <span class="pl-c1">ImportError</span>:</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> The above import may fail for some other reason. Ensure that the</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> issue is really that Django is missing to avoid masking other</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> exceptions on Python 2.</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">try</span>:</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">import</span> django</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">except</span> <span class="pl-c1">ImportError</span>:</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">raise</span> <span class="pl-c1">ImportError</span>(</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">                <span class="pl-s"><span class="pl-pds">&quot;</span>Couldn&#39;t import Django. Are you sure it&#39;s installed and <span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">                <span class="pl-s"><span class="pl-pds">&quot;</span>available on your PYTHONPATH environment variable? Did you <span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">                <span class="pl-s"><span class="pl-pds">&quot;</span>forget to activate a virtual environment?<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">            )</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">raise</span></td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">    execute_from_command_line(sys.argv)</td>
+      </tr>
+</table>
+
   </div>
 
 </div>
@@ -627,7 +718,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.09838s from github-fe125-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.08054s from github-fe153-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
